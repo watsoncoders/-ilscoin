@@ -1,7 +1,7 @@
 ILSCoin
 =====================================
 
-https://ilscoin.net
+https://ils-coin.com/
 
 What is ILSCoin?
 ----------------
@@ -9,7 +9,7 @@ What is ILSCoin?
 ILSCoin is a decentralised digital currency with near-instant transaction speeds and negligible transaction fees built upon Proof of Stake 3.0 (PoSV3, BPoS) as
 introduced by the ILSCoin development team.
 
-For more information about ILSCoin itself, see https://ilscoin.org.
+For more information about ILSCoin itself, see https://ils-coin.com.
 
 What is ILSCoin?
 ----------------
@@ -17,7 +17,7 @@ What is ILSCoin?
 ILSCoin is the name of open source software which enables the use of this currency. It takes ILSCoin to the next level by building upon
 Bitcoin Core 0.13.2 with some patches from newer Bitcoin Core versions to offer performance enhancements, wider compatibility with third party services and a more advanced base.
 
-For more information, as well as an immediately useable, binary version of the ILSCoin software, see https://ilscoin.net.
+For more information, as well as an immediately useable, binary version of the ILSCoin software, see https://ils-coin.com/.
 
 License
 -------
