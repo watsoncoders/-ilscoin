@@ -1,0 +1,33 @@
+# /etc/conf.d/ilscoind: config file for /etc/init.d/ilscoind
+
+# Config file location
+#BLACKMORED_CONFIGFILE="/etc/ilscoin/ilscoin.conf"
+
+# What directory to write pidfile to?  (created and owned by $BLACKMORED_USER)
+#BLACKMORED_PIDDIR="/var/run/ilscoind"
+
+# What filename to give the pidfile
+#BLACKMORED_PIDFILE="${BLACKMORED_PIDDIR}/ilscoind.pid"
+
+# Where to write ilscoind data (be mindful that the blockchain is large)
+#BLACKMORED_DATADIR="/var/lib/ilscoind"
+
+# User and group to own ilscoind process
+#BLACKMORED_USER="ilscoin"
+#BLACKMORED_GROUP="ilscoin"
+
+# Path to ilscoind executable
+#BLACKMORED_BIN="/usr/bin/ilscoind"
+
+# Nice value to run ilscoind under
+#BLACKMORED_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+#BLACKMORED_OPTS=""
+
+# The timeout in seconds OpenRC will wait for ilscoind to terminate
+# after a SIGTERM has been raised.
+# Note that this will be mapped as argument to start-stop-daemon's
+# '--retry' option, which means you can specify a retry schedule
+# here. For more information see man 8 start-stop-daemon.
+BLACKMORED_SIGTERM_TIMEOUT=600
