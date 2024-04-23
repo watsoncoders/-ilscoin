@@ -37,6 +37,28 @@ Change log can be found in [CHANGELOG.md](CHANGELOG.md).
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 
+Public Nodes
+-------
+
+so far these are the public nodes in the project:
+(you can add them by adding them to your : ILSCoin.conf files found under C:\Users\yourusername\AppData\Roaming\ILSCoin in windows)
+
+addnode=ilscoin.net
+addnode=37.60.246.39
+
+addnode=84.247.136.131
+
+addnode=167.86.85.8
+
+addnode=37.60.228.103
+
+Block
+
+
+The Main Block Explorer
+-----------------------------
+https://ilscoin.net/
+
 Testing
 -------
 
